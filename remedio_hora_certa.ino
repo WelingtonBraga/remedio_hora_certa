@@ -33,7 +33,7 @@ WiFiClientSecure secured_client;
 
 // Inicializando os componentes
 unsigned long previousMillis = 0;
-unsigned long intervalo = 12 * 60 * 60 * 1000; // Define o intervalo entre os alarmes
+unsigned long intervalo = 12 * 60 * 60 * 1000; // Define o intervalo entre os alarmes, está definido em 12 horas entre cada alarme.
 bool buzzerAtivo = false;
 bool botaoPressionado = false;
 bool avisoSonoroInicial = true; // Estado do aviso sonoro inicial
