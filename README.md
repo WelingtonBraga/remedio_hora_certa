@@ -1,4 +1,4 @@
-# remedio_hora_certa
+# Projeto INTERNET DAS COISAS utilizando a placa ESP32
 
 Bibliotecas: O código inclui várias bibliotecas necessárias para várias funcionalidades, como conexão com Wi-Fi, manipulação de data e hora,
 comunicação com o Telegram e manipulação de JSON.
